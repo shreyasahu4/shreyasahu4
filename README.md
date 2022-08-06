@@ -52,14 +52,14 @@
   </a> -->
 </p>
 
-<h1 align="center"> Socials: </h1>
+/*<h1 align="center"> Socials: </h1>
   <p align="center">
     
     <a href="www.linkedin.com/in/shreya-sahu-1463691bb">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
-</h1>
+</h1>*/
 
 <hr>
 <!---
